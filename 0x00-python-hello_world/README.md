@@ -26,6 +26,11 @@ This repository contains introductory Python exercises. The objectives are to le
 All files are executable. To run the Python scripts, navigate to the directory containing the file and use the following command:
 
 
+Then run the programs using the following commands:
+
+``./cycle
+  ./hello``
+
 ## Author
 
 - **solomonkassa** - [solomonkassa](https://github.com/solomonkassa)
