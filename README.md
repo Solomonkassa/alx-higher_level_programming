@@ -25,10 +25,7 @@ During the course, students will work on several projects to apply the concepts 
 
 Here are some of the projects you'll be working on:
 
-* Simple Shell
 * AirBnB clone
-* Slicing
-* Regex matching and parsing
 * Binary search
 * And more!
 
