@@ -1,0 +1,2 @@
+#!/bin/bash
+pyton3 << $PYCODE
