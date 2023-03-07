@@ -77,4 +77,5 @@ A function that prints the numbers from 1 to 100 separated by a space. For multi
 A function in C that inserts a number into a sorted singly linked list.
 Author
 
-This project was developed by Solomon Kassa.
+This project was developed by 
+- **solomonkassa** - [solomonkassa](https://github.com/solomonkassa)
