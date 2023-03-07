@@ -1,6 +1,6 @@
 # 0x01. Python - if/else, loops, functions
 
-This project is part of the Holberton School curriculum and it's focused on the basics of Python programming. The topics covered in this project are conditional statements, loops, and functions.
+This project is part of the Alx School curriculum and it's focused on the basics of Python programming. The topics covered in this project are conditional statements, loops, and functions.
 
 ## Learning Objectives
 
@@ -77,4 +77,5 @@ A function that prints the numbers from 1 to 100 separated by a space. For multi
 A function in C that inserts a number into a sorted singly linked list.
 Author
 
-This project was developed by Solomon Kassa.
+This project was developed by 
+- **solomonkassa** - [solomonkassa](https://github.com/solomonkassa)
