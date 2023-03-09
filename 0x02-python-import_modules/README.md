@@ -50,4 +50,5 @@ To use a third-party module in your code, you need to import it just like you wo
 
 Importing modules is an essential part of Python programming. Whether you are using the standard library or a third-party module, importing allows you to reuse code and build more complex programs with less effort.
 
-## Author: Solomon Kassa
+This project was developed by 
+- **solomonkassa** - [solomonkassa](https://github.com/solomonkassa)
