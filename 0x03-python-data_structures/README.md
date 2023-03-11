@@ -68,28 +68,28 @@ A function that replaces an element in a list at a specific position without mod
 ### [5. Can you C me now?](./5-no_c.py)
 A function that removes all characters `c` and `C` from a string.
 
-### [6. Lists of lists = Matrix
+### [6. Lists of lists = Matrix]
 Write a function that prints a matrix of integers.
 
-### Task 7: Tuples addition
+### [Task 7: Tuples addition]
 Write a function that adds 2 tuples.
 
-### Task 8: More returns!
+### [Task 8: More returns!]
 Write a function that returns a tuple with the length of a string and its first character.
 
-### Task 9: Find the max
+### [Task 9: Find the max]
 Write a function that finds the biggest integer of a list.
 
-### Task 10: Only by 2
+### [Task 10: Only by 2]
 Write a function that finds all multiples of 2 in a list.
 
-### Task 11: Delete at
+### [Task 11: Delete at]
 Write a function that deletes the item at a specific position in a list.
 
-### Task 12: Switch
+### [Task 12: Switch]
 Complete the source code in order to switch value of a and b.
 
-### Task 13: Linked list palindrome
+### [Task 13: Linked list palindrome]
 Write a function in C that checks if a singly linked list is a palindrome.
 
 ### Conclusion
@@ -97,4 +97,4 @@ Write a function in C that checks if a singly linked list is a palindrome.
 This project covered the fundamentals of Lists and Tuples in Python. It is important to understand the differences between the two and their respective use cases. We also learned about List comprehensions and Tuple packing and sequence unpacking. Finally, we covered the use of the del statement.
 
 ## Author
-Solomon kassa 
+Solomon kassa [https://github.com/solomonkassa)]
