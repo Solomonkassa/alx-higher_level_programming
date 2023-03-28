@@ -41,6 +41,6 @@ To use any of the classes defined in these files, import them into your Python c
 
 ## Credits
 
-This code was written by [solomon kassa](https://github.com/Solomonkassa/)for the ALX Higher Level Programming curriculum.
+This code was written by [solomon kassa](https://github.com/Solomonkassa/) for the ALX Higher Level Programming curriculum.
 
 
