@@ -39,3 +39,8 @@ A Python script defining a class `Square` with a private instance attribute `siz
 To use any of the classes defined in these files, import them into your Python code and create instances of the class. For example:
 
 
+## Credits
+
+This code was written by [solomon kassa](https://github.com/Solomonkassa/)for the ALX Higher Level Programming curriculum.
+
+
