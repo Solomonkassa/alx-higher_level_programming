@@ -16,5 +16,5 @@ This project is focused on learning more about classes and objects in Python.
 - **9-rectangle.py:** A class `Rectangle` that defines a rectangle by its width, height, and can calculate its area and perimeter. It also adds a string representation of the rectangle and a method that prints the rectangle using the `#` character. It also has static methods to compare rectangles by area and class methods to change the rectangle's dimensions based on a factor. It also adds public class attributes `number_of_instances` and `print_symbol`. It also adds a method to create a new rectangle from its string representation.
 
 ## Author
-Solomon Kassa
+[Solomon Kassa](https://github.com/Solomonkassa/)
 
