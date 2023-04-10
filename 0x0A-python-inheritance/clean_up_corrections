@@ -1,0 +1,2 @@
+#!/bin/bash
+dos2unix *.py && chmod +x *.py && autopep8 -i *.py
