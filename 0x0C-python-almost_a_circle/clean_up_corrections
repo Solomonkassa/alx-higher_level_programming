@@ -1,6 +1,0 @@
-#!/bin/bash
-if [ "$1" != "" ]; then
-    dos2unix "$1" && chmod +x "$1" && autopep8 -i "$1" && pycodestyle "$1"
-else
-    dos2unix *.py && chmod +x *.py && autopep8 -i *.py && pycodestyle *.py
-fi
