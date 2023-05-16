@@ -23,7 +23,7 @@ This directory contains solutions to tasks on the topic of SQL, specifically on 
 * How to use MySQL functions
 
 ## Requirements
-* All files are written and compiled on Ubuntu 14.04 LTS using MySQL 5.7 (version 5.7.8-rc)
+* All files are written and compiled on Ubuntu 20.04 LTS using MySQL 5.7 (version 5.7.8-rc)
 * All SQL queries should have no error messages
 * All SQL keywords should be in uppercase (ex. `SELECT`, `WHERE`...)
 
@@ -40,3 +40,5 @@ This directory contains solutions to tasks on the topic of SQL, specifically on 
 * [9. Full creation](./9-full_creation.sql): Write a script that creates a table `second_table` in the database `hbtn_0c_0` in your MySQL server and add multiples rows.
 * [10. List by best](./10-top_score.sql): Write a script that lists all records of the table `second_table` of the database `hbtn_0c_0` in your MySQL server.
 
+# AUTHOR 
+[Solomon Kassa](https://github.com/somonkassa/)
