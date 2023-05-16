@@ -140,35 +140,35 @@ class Base:
             list_rectangles (list): A list of Rectangle objects to draw.
             list_squares (list): A list of Square objects to draw.
         """
-        turt = turtle.Turtle()
-        turt.screen.bgcolor("#b7312c")
-        turt.pensize(3)
-        turt.shape("turtle")
+        cos = turtle.Turtle()
+        cos.screen.bgcolor("#b7312c")
+        cos.pensize(3)
+        cos.shape("turtle")
 
-        turt.color("#ffffff")
+        cos.color("#ffffff")
         for rect in list_rectangles:
-            turt.showturtle()
-            turt.up()
-            turt.goto(rect.x, rect.y)
+            cos.showturtle()
+            cos.up()
+            cos.goto(rect.x, rect.y)
             turt.down()
             for i in range(2):
-                turt.forward(rect.width)
-                turt.left(90)
-                turt.forward(rect.height)
-                turt.left(90)
-            turt.hideturtle()
+                cos.forward(rect.width)
+                cos.left(90)
+                cos.forward(rect.height)
+                cos.left(90)
+            cos.hideturtle()
 
-        turt.color("#b5e3d8")
+        cos.color("#b5e3d8")
         for sq in list_squares:
-            turt.showturtle()
-            turt.up()
-            turt.goto(sq.x, sq.y)
-            turt.down()
+            cos.showturtle()
+            cos.up()
+            cos.goto(sq.x, sq.y)
+            cos.down()
             for i in range(2):
-                turt.forward(sq.width)
-                turt.left(90)
-                turt.forward(sq.height)
-                turt.left(90)
-            turt.hideturtle()
+                cos.forward(sq.width)
+                cos.left(90)
+                cos.forward(sq.height)
+                cos.left(90)
+            cos.hideturtle()
 
         turtle.exitonclick()
