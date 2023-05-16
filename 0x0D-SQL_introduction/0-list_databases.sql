@@ -1,2 +1,2 @@
--- This is solomon kassa database
+-- This script list all databases in MySQL server
 SHOW database;
