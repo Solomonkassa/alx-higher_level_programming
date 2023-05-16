@@ -41,4 +41,4 @@ This directory contains solutions to tasks on the topic of SQL, specifically on 
 * [10. List by best](./10-top_score.sql): Write a script that lists all records of the table `second_table` of the database `hbtn_0c_0` in your MySQL server.
 
 # AUTHOR 
-[Solomon Kassa](https://github.com/somonkassa/)
+- [Solomon Kassa](https://github.com/somonkassa/)
